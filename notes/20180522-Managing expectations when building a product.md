@@ -1,0 +1,10 @@
+- Building great products means different things to different people.
+    - Increase sales
+    - Fill a hole in the product line-up
+    - Match a competitors offering
+    - Improve the experience for existing users
+    - Finally re-write a piece of software.
+    - Spend up the current budget
+    - Innovating an industry
+    - Build something of high quality
+    - 

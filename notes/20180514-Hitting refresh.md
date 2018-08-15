@@ -1,0 +1,7 @@
+Hitting refresh - A blog post for Dolittle
+
+We've grown accustomed to hitting refresh in web browsers. The simple act of hitting that round icon with an arrow that refreshes a website. Often there's a reason behind that refresh - to get the latest posts in your news feed, to check the price or availability of your next purchase, and even to get unstuck when a site stops behaving the way we expect.
+
+The act of hitting refresh can be quite rough. You're essentially clearing out the entire state of the web-page in question. Removing all the images and personal preferences. Connecting to a server that's placed in another physical location and requesting the page again. Now depending on what site you're on and how that page has been designed, you'll need to load up a bunch of static resources like images, fonts, scripts & documents that are important to be able to experience the web-site. Some of these are cached locally, while others need to be refetched. More round-trips to the server. As documents start ticking in, the page is loaded into memory and built up piece by piece. Rendering itself on your screen, loading itself into memory to give you wonderful animations, behaviour and possibilities. And most importantly, you are assured that you really are looking at the most up-to-date pictures in your feed, or the latest price on that product.
+
+The small act of hitting refresh can be so liberating, especially when you're a startup trying to get hold of your identity. It's not
