@@ -1,19 +1,49 @@
 # 2018 in review
 
-## follow up from 2017 in review
- - 2017 was about personal exploration and being in the limelight
- - PAVLOG
- - Empathy @ NDC OSlo / QCon New York
- 
+As is tradition (reviews for [2016]() and [2017]()) I want to spend a few minutes reflecting on the year of 2018. I find that taking time to reflect helps gives me perspective of where I am on my own personal journey. Reflecting also helps give closure and allows me to direct my thoughts and efforts towards what I want to accomplish in the future.
+
+2018 has been one of the most exciting years from a professional stance, it's also been one of the most frustrating on my own personal growth journey. How can this be, you may ask? Or may maybe not. I'm asking at least :).
+
+##Not putting things into perspective
+Having some sort of perspective on where you are in life brings a lot of context. It allows you to understand where you need to focus your efforts and what you can expect from the outcomes. Without perspective expecations run amok, and this has been a theme for the last year.
+
+Let's add some perspective:
+2015: The year I hit my first real burnout. A low point in life that has turned out to be an eye-opening experience.
+2016: The rebound year and discovering I had more to offer. My most active blog year, and a confernce talk.
+2017: Exploring ideas, video and vulnerability. Putting myself out there on all fronts, blog, vlog and several conference talks.
+2018: Change, Struggle, Failure, Growth.
+
+## Change and Struggle
+This year brought around a big change - a shift in careers. I transitioned from a Team Lead with a path towards Agile Coach / Management / Leadership type of roles at a larger company to becoming a founding employee at the startup, [Dolittle]() (more on this some other time). 
+The role I took, and currently have is User Experience Lead / Web Developer, and as with any (small) company; titles mean nothing. Days have been filled with more frontend and javascript work than any before, both for our own products and client projects. As well as all the aspects of building a great culture and a the fundaments of a company that will last for years to come.
 
 
-## Stats
+#Failure
+Working in any startup is hectic, and that's also what I experienced. The transition has been painful. On one side I've wanted to explore and establish what UX is at Dolittle, and on the other, coding and working with clients to bring in some income naturally took presedence. All of the while fumbling trying to get on board with modern JavaScript Web Development. This lead to a feeling of not feeling adaquate or competent in any of the work I was doing.
 
-## The Blog
- - active posts
-    - Radical candor
-    - Efficiency / Effectiveness in SW Dev
-    - Rituals of Shaming in SW
+Another consequence of feeling like all my energy was going towards not accomplishing things were the negative thoughts and the stories I was telling myself. Luckily for me the people I decided to work with that Dolittle are some of the best humans I've ever had the privilege to know, and they offered their support. But the feelings still lingered - this was something I needed to work through, and deal with for myself. Which leads to my next real failure - Not taking time to reflect and process how much I was actually learning.
+
+On a related note, previous accomplishments havw been keeping me back from future accomplishments. I've struggled to put my self and content out there for several reasons, one of them has been comparing myself to my previous self, without applying any form of context or perspective. The word "should" 
+
+#growth
+Things were looking a lot brighter towads the end of the year. I was more comforotable with the day-to-day challenges we had at work, as well being able to acknowledge my role and the contributions I was making. This gave me some space to reflect over my own learnings. I was also able to identify a weakness I had (with help from colleagues), namely that I self-sensor myself a lot. This manifested itself in not speaking up in meetings. Not sharing my thoughts on what I felt was important through other communication channels, and also it put a solid block over any attempt I made to write anything in public. This isn't to be confused with reflecting and pondering over a topic before forming an opinion (which I also do), but when it was evident that I had something to ask or say - I didn't. I was afraid. Afraid to not have the right answer, to appear foolish and found it easier to keep thoughts within. Identifying this specific behaviour has been a key discovery, and is something I'll be working on in the coming year.
+
+As I mentioned earlier, being in a startup means wearing multiple hats, and this has been the year I really re-embraced modern javascript web development with AureliaJS. It's been a painful process of wanting to deliver and ship great products, but stumble on "simple" things like identifying component abstractions, understanding es6 syntax, as well as learn the framework iteself. At the end of the day though, I1m proud of the progress I've made in this area. From feelin inadequate, to being able to write components, and application logic with TDD in less than a year has been a huge win.
+
+None of my learnings would have been possible without the people I'm surrounded with. They say that you are the average of the 5 people closest to you TK, and I'm surrounded by 5 of the most influentual people in my career, not to mention them surrounded by others that are equally influenced by. I'm humbled, honoured and so priviliged to be able to work in these conditions.
+
+#personal
+On a private note I want to mention running. 2018 has been the year I purposefully made running a habit. I have some big hairy goals for 2019 when it comes to running, namely complete a marathon towards th end of the year.
+
+I've cut drastically down on phone usage around the family as well. Disabled my facebook account, removed twitter from my phone, and optimized more time to be present with them. It's come in handy as our 3rd child has made the transition from innocent toddler to chaos monster (3 yrs old).
+
+I've also been able to plough through quite a few books during my commutes. Some really good reads here.
+
+
+## In conclusion
+Writing this post has been so, SO hard. I knew I wanted to write this before spending time on anything else, so it had the potential to become a blocker for me. I also wanted this to be a personal reflection post, rather than a set of useful tips, things I've learned, quick wins. Lists of accomplishments, contributions and side projects. There's enough of that out there. Instead I hope this post reminds people that life is messy. We all have our ups and downs. That doesn't mean that you're less than others in any way, just that you're human and that 2018 has been exactly wht you needed to prepare for 2019. That's how I choose to see it, at least.
+
+Struggle Well in 2019!
 
 ## Books read / listened to
 Gathering this information was a lot harder than I anticipated
@@ -40,4 +70,6 @@ Gathering this information was a lot harder than I anticipated
 
 
 ## 
+
+
 
